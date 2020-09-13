@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T00:51:53.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="LnXibWZm9OCfCf6aVvNO" version="13.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-13T00:52:39.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hWapAVZhaPzm7DemQN6T" version="13.0.1" type="github" pages="3">
   <diagram id="yB4tgH8WNEcv2aLtNd5O" name="Page-1">
     <mxGraphModel dx="3307" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,11 +774,14 @@
         <mxCell id="ZkByNmDpfB5OZ_loyaJ_-97" value="Cargo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EOw8f1zh6Q_3tc_u6o2s-1">
           <mxGeometry x="-790" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZkByNmDpfB5OZ_loyaJ_-100" value="Colaboradores para está AC2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=#ffffff;" vertex="1" parent="EOw8f1zh6Q_3tc_u6o2s-1">
-          <mxGeometry x="220" y="360" width="280" height="120" as="geometry" />
+        <mxCell id="ZkByNmDpfB5OZ_loyaJ_-100" value="Colaboradores para  AC2" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=#ffffff;" vertex="1" parent="EOw8f1zh6Q_3tc_u6o2s-1">
+          <mxGeometry x="220" y="360" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZkByNmDpfB5OZ_loyaJ_-101" value="Josemar Dias Alves Santos&#xa;RA 1902785 &#xa;Sandra Gonçalves Miguel&#xa;RA 1902983 Camila Meireles Cardoso da Silva&#xa;RA 1903765 " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="ZkByNmDpfB5OZ_loyaJ_-100">
-          <mxGeometry y="30" width="280" height="90" as="geometry" />
+        <mxCell id="ZkByNmDpfB5OZ_loyaJ_-101" value="Josemar Dias Alves Santos RA 1902785 &#xa;Sandra Gonçalves Miguel RA 1902983 &#xa;Camila Meireles Cardoso da Silva RA 1903765 " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="ZkByNmDpfB5OZ_loyaJ_-100">
+          <mxGeometry y="30" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkByNmDpfB5OZ_loyaJ_-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="ZkByNmDpfB5OZ_loyaJ_-100" source="ZkByNmDpfB5OZ_loyaJ_-101" target="ZkByNmDpfB5OZ_loyaJ_-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
